@@ -6,7 +6,7 @@ require (
 	github.com/3scale-ops/basereconciler v0.5.1
 	github.com/MakeNowJust/heredoc v1.0.0
 	github.com/davecgh/go-spew v1.1.1
-	github.com/envoyproxy/go-control-plane v0.12.1-0.20240509201933-132c0a31ab09
+	github.com/envoyproxy/go-control-plane v0.13.4
 	github.com/ghodss/yaml v1.0.0
 	github.com/go-logr/logr v1.4.1
 	github.com/go-test/deep v1.1.0
