@@ -3,7 +3,7 @@ module github.com/3scale-ops/marin3r/generators/pkg-envoy-proto
 go 1.22
 
 require (
-	github.com/dave/jennifer v1.7.0
+	github.com/dave/jennifer v1.7.1
 	github.com/go-git/go-git/v5 v5.11.0
 	github.com/spf13/cobra v1.8.0
 	golang.org/x/mod v0.14.0
