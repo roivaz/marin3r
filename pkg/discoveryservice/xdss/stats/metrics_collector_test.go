@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/MakeNowJust/heredoc"
+	"github.com/MakeNowJust/heredoc/v2"
 	kv "github.com/patrickmn/go-cache"
 	prometheus_testutil "github.com/prometheus/client_golang/prometheus/testutil"
 )

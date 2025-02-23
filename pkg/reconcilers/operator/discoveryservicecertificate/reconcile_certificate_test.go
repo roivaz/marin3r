@@ -11,7 +11,7 @@ import (
 	"github.com/3scale-ops/marin3r/pkg/reconcilers/operator/discoveryservicecertificate/providers"
 	"github.com/3scale-ops/marin3r/pkg/util/clock"
 	"github.com/3scale-ops/marin3r/pkg/util/pki"
-	"github.com/MakeNowJust/heredoc"
+	"github.com/MakeNowJust/heredoc/v2"
 	"github.com/go-logr/logr"
 	"k8s.io/apimachinery/pkg/api/errors"
 	metav1 "k8s.io/apimachinery/pkg/apis/meta/v1"
