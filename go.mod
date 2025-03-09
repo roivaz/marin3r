@@ -1,6 +1,8 @@
 module github.com/3scale-ops/marin3r
 
-go 1.22
+go 1.23.0
+
+toolchain go1.23.7
 
 require (
 	github.com/3scale-ops/basereconciler v0.5.1
@@ -19,9 +21,9 @@ require (
 	github.com/prometheus/client_golang v1.18.0
 	github.com/prometheus/common v0.45.0
 	github.com/spf13/cobra v1.8.0
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20240318140521-94a12d6c2237
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250303144028-a0af3efb3deb
 	google.golang.org/grpc v1.62.1
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.36.5
 	k8s.io/api v0.29.2
 	k8s.io/apimachinery v0.29.2
 	k8s.io/client-go v0.29.2
