@@ -1,8 +1,6 @@
-approvers:
-  - raelga
-  - roivaz
-  - slopezz
-reviewers:
-  - raelga
-  - roivaz
-  - slopezz
+"approvers":
+- "team-sre-approvers"
+"labels":
+- "wg/sre"
+"reviewers":
+- "team-sre-reviewers"
